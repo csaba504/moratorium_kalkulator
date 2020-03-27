@@ -1,2 +1,2 @@
 # moratorium_kalkulator
-2020 Magyar Moratorium Kalkulátor
+Magyar Hitel Moratórium Kalkulátor
